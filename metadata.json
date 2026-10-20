@@ -1,0 +1,8 @@
+{
+  "name": "DevPulse Studio - Multi-Stack Code Inspector & IDE",
+  "description": "Advanced developer tool for inspecting, extracting, and live-editing React, HTML, CSS, JavaScript, and Python code with interactive DOM inspection, style debugger, and live runtime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
